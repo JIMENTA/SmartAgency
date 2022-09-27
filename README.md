@@ -1,3 +1,3 @@
 Resultado final :
-https://jimenta.github.io/smartAgency.github.io/
+https://jimenta.github.io/SmartAgency
 Practicas en Bootstrap(CSS) + HTML + JS
